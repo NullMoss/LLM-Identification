@@ -1,6 +1,8 @@
 # Who Wrote It? Identifying LLMs from Their Responses
 
-CMPSC 448 midterm project. **Team leader: Joshua Wong (individual project)**
+CMPSC 448 midterm project. 
+
+**Team leader: Joshua Wong (individual project)**
 
 Different LLMs have different linguistic, stylistic, and structural “fingerprints” in their responses. Can we differentiate the AI behind the text using machine learning?
 
